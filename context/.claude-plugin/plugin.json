@@ -1,0 +1,5 @@
+{
+  "name": "context",
+  "version": "0.5.0",
+  "description": "Shows how full this session's context window is, as one line of text on the status line."
+}
