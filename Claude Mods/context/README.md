@@ -6,6 +6,8 @@
 
 Shows how full this session's context window is, as one line of text on the Claude desktop app's status line: `context 7% · 72.6k/1M` (the app adds the plugin name as a prefix). For what is inside the window, use the built-in `/context`. A fuller version with an expanded card, chip and `/ctx` command exists but is not published.
 
+![context mod showing context window usage on the Claude desktop app status line](../../Preview%20Images/context-claude-mod.PNG)
+
 ## How to use it
 
 Point Claude at the folder. For the desktop app, add to `~/.claude/settings.json` (then start a new Code-tab session):
