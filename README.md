@@ -7,6 +7,7 @@ A small collection of tools made for Claude Code (or your AI harness of choice).
 | Tool | Type | Version | Purpose |
 | ---- | ---- | ------- | ------- |
 | [context](./Claude%20Mods/context/) | mod | 0.5.0 | Shows how full the session's context window is on the status line. Created for use with the Claude desktop app, after they removed the per-session context window UI element around 10/15/2026. Use this mod for an at-a-glance view, and use Claude's built in `/context` skill to see exact context window breakdown. |
+| [phone-qr](./Skills/phone-qr/) | skill | 0.1.0 | Shows a QR code that opens a local dev server on your phone, over Tailscale or home Wi-Fi. Triggers on its own when you want to see something on a real device, and fixes servers that only listen on localhost. |
 
 ### Preview: context mod
 
